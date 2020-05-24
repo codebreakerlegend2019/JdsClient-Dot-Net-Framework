@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDn8fzljM8U6qNl3gVs6zPfCQZACjxoVpofBu8QMMLHz1SJaEwffE0Hi8WdxNRcB5uwVBpUtfO6grdjYMhsnWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joshua D. Siuagan\\source\\repos\\JdsClient\\JdsClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshua D. Siuagan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Joshua D. Siuagan\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

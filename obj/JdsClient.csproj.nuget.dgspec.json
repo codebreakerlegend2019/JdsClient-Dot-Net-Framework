@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joshua D. Siuagan\\source\\repos\\JdsClient\\JdsClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joshua D. Siuagan\\source\\repos\\JdsClient\\JdsClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joshua D. Siuagan\\source\\repos\\JdsClient\\JdsClient.csproj",
+        "projectName": "JdsClient",
+        "projectPath": "C:\\Users\\Joshua D. Siuagan\\source\\repos\\JdsClient\\JdsClient.csproj",
+        "packagesPath": "C:\\Users\\Joshua D. Siuagan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joshua D. Siuagan\\source\\repos\\JdsClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joshua D. Siuagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://aka.ms/xf-ci/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
