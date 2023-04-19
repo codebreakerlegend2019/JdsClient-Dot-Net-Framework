@@ -7,11 +7,42 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Calibri';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=J7afnpV-BGlaFfdAhLEY6w&skey=a1029226f80653a8&v=v15) format('woff2');
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Calibri'), url('https://fonts.cdnfonts.com/s/78322/calibri.woff') format('woff');
 }
+@font-face {
+    font-family: 'Calibri';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Calibri'), url('https://fonts.cdnfonts.com/s/78322/calibrii.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Calibri'), url('https://fonts.cdnfonts.com/s/78322/calibril.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibri';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Calibri'), url('https://fonts.cdnfonts.com/s/78322/calibrili.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Calibri'), url('https://fonts.cdnfonts.com/s/78322/calibrib.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibri';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Calibri'), url('https://fonts.cdnfonts.com/s/78322/calibriz.woff') format('woff');
+}
+
 /* cyrillic */
 @font-face {
   font-family: 'Comic Sans MS';
